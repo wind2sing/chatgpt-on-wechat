@@ -9,7 +9,7 @@ packages = [{include = "chatgpt_on_wechat"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 itchat-uos = "1.5.0.dev0"
-revchatgpt = "^1.0.7"
+revchatgpt = "^1.0.10"
 
 
 [build-system]
